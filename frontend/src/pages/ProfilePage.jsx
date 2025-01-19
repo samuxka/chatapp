@@ -85,7 +85,7 @@ const ProfilePage = () => {
               </div>
               <div className="flex-items-center justify-between py-2">
                 <span>Account Status</span>
-                <span className="text-green-500">Active</span>
+                <span className="ml-1 text-green-500">Active</span>
               </div>
             </div>
           </div>
